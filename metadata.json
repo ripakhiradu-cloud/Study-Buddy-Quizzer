@@ -1,0 +1,6 @@
+{
+  "name": "Study Buddy Quizzer",
+  "description": "Paste class notes to generate flashcards and adaptive quizzes that focus on what you get wrong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
